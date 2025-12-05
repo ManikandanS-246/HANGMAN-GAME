@@ -46,9 +46,3 @@ python manage.py runserver
 ![Lose](https://user-images.githubusercontent.com/54937357/188228245-16ecd9f4-c1f9-4e94-aa3d-5b6dd5733cc3.png)
 
 ---
-
-<p align="center"> <b> 👉🏻 Created to Learn Django 👈🏻 <b> </p>
- 
-<p align="center"> <b> 👷 Project Authors: Amey Thakur and Mega Satish <b> </p>
- 
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
